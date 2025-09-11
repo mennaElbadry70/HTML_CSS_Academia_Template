@@ -7,3 +7,5 @@
  - Smooth scroll animations with AOS
  - Works across all screen sizes
  - 8 well-structured sections (Hero, About, Services, Blog, Contact, etc.)
+ - Live Preview : https://mennaelbadry70.github.io/HTML_CSS_Academia_Template/
+
